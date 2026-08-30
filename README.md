@@ -6,11 +6,10 @@
 
 直接双击打开 `index.html`，会自动跳转到游戏本体 `与你相遇的夏天.html`。游戏为单文件 HTML，无需安装任何依赖，离线可直接运行。
 
-也可以直接在线游玩：
+也可以直接在线游玩（无需下载，打开浏览器即可）：
 
-- 在线地址：https://microovo.github.io/simple-arg-game/
-
-无需下载，打开浏览器即可游玩。
+- 自定义域名：https://opfer.top/
+- 备用地址（GitHub Pages）：https://microovo.github.io/simple-arg-game/
 
 ## 文件说明
 
