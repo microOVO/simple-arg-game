@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>调试员档案 · PENTEST TERMINAL</title>
+<style>
+  html,body{height:100%;margin:0;background:#030603;color:#c9f5d4;
+    font-family:"Consolas","JetBrains Mono","Microsoft YaHei",monospace;
+    display:flex;align-items:center;justify-content:center;}
+  .box{text-align:center;letter-spacing:2px;}
+  .box h1{font-size:26px;font-weight:bold;margin-bottom:18px;color:#4dffa1;
+    text-shadow:0 0 10px rgba(77,255,161,.6),0 0 30px rgba(77,255,161,.25);
+    font-family:Consolas,monospace;letter-spacing:6px;}
+  .box p{font-size:13px;color:rgba(200,245,212,.55);line-height:2;font-family:Consolas,monospace;}
+  .box a{color:#57e6ff;text-decoration:none;border-bottom:1px solid rgba(87,230,255,.4);}
+  .box a:hover{text-shadow:0 0 8px rgba(87,230,255,.8);}
+  .dot{display:inline-block;animation:blink 1s steps(1) infinite;color:#4dffa1;}
+  @keyframes blink{50%{opacity:0;}}
+  .warn{margin-top:14px;font-size:11px;color:rgba(255,210,87,.5);letter-spacing:3px;}
+</style>
+<script>
+  // 启动器：相对路径跳转到游戏本体，文件夹移动后依然有效
+  try{ location.replace('与你相遇的夏天.html'); }
+  catch(e){ window.location.href = '与你相遇的夏天.html'; }
+</script>
+</head>
+<body>
+  <div class="box">
+    <h1>调试员档案</h1>
+    <p>正在建立安全通道<span class="dot">…</span></p>
+    <p>如果页面没有自动跳转，<a href="与你相遇的夏天.html">点击这里进入终端</a></p>
+    <p class="warn">// 本游戏包含心理恐怖与 meta 元素 · 修复最后一个 bug 之前，请想清楚</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+# 敏感/隐私文件（不公开上传）
+谜题答案.txt
+docs/
+宣传图.jpg
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.log
