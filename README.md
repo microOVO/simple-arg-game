@@ -8,8 +8,7 @@
 
 也可以直接在线游玩（无需下载，打开浏览器即可）：
 
-- 自定义域名：https://opfer.top/
-- 备用地址（GitHub Pages）：https://microovo.github.io/simple-arg-game/
+- 在线地址：https://microovo.github.io/simple-arg-game/
 
 ## 文件说明
 
